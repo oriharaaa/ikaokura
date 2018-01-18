@@ -1,0 +1,18 @@
+/**/
+html,body{ height:100%;}
+
+body{background-image: url("jogging.jpg");
+     background-repeat:no-repeat;
+     background-size: cover;}
+
+h3{padding-bottom:.1em;
+   border-bottom: 5px double #add8e6;
+   text-align:center;
+   color:white;}
+   
+div{text-align:center;
+    color:white;}
+    
+span{color:#6495ed;}
+
+.pink_line{background:linear-gradient(transparent 10%, #e6e6fa 0%);}
